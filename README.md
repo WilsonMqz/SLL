@@ -1,6 +1,5 @@
 # SLL
 
-This is the implemention of our ICME'25 paper (Learning from Stochastic Labels).
 
 Requirements: 
 Python 3.8.5, 
